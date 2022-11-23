@@ -2,7 +2,7 @@
 **Car Price Prediction model created based on Regression algorithms** created with reference to **DataTalks.Club mlzoomcamp** course created using Google Colab
 
 
-Dataset: https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-02-car-price/data.csv
+**Dataset**: https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-02-car-price/data.csv
 
 # 1. **Data Preparation**
 
