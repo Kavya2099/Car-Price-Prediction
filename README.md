@@ -1,5 +1,5 @@
 # Car-Price-Prediction
-Car Price Prediction model created based on Regression algorithm created with reference to **DataTalks.Club mlzoomcamp** course created using Google Colab
+**Car Price Prediction model created based on Regression algorithm** created with reference to **DataTalks.Club mlzoomcamp** course created using Google Colab
 
 
 Dataset: https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-02-car-price/data.csv
