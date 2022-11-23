@@ -16,12 +16,12 @@ Reading the data from csv file and making initial data cleaning process of chang
       
 # 3. **Model**
       
-* Implementing Randomforest regressor without pipleine using numerical features   
+* Implementing **Randomforest regressor** without pipleine using numerical features   
 * Implementing Randomforest regressor without pipleine using feature engineering     
-* Implementing pipeline feature with Randomforest regressor algorithm using both all features     
-* Implementing pipeline feature with XGBRegressor algorithm using both all features     
+* Implementing **Pipeline** with Randomforest regressor algorithm using both all features     
+* Implementing Pipeline with **XGBRegressor** algorithm using both all features     
 * Implementing XGBRegressor without pipleine using both all features
-* Trying out crossvalidation
+* Trying out **Crossvalidation**
 
       
  Picking the best model based on **Mean Absolute Error (MAE) and Mean Squared Error(MSE)**
