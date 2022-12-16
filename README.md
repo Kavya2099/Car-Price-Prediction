@@ -1,4 +1,9 @@
 # Car-Price-Prediction
+
+<p align="center">
+<img src="https://images.cars.com/cldstatic/wp-content/uploads/Best-New-Car-Deals-October-2019-PD.gif" width="650" height="400" />
+</p>
+
 **Car Price Prediction model created based on Regression algorithms** created with reference to **DataTalks.Club mlzoomcamp** course created using Google Colab
 
 
